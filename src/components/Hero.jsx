@@ -1,7 +1,7 @@
 import React from 'react'
 import { DotLottieReact } from '@lottiefiles/dotlottie-react'
 import CountUp from './CountUp'
-import pbResume from '../assets/PB Resume.pdf'
+import pbResume from '../assets/PB-Resume.pdf'
 
 export default function Hero() {
   return (
