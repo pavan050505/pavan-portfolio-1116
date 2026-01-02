@@ -1,16 +1,90 @@
-# React + Vite
+# 🌐 Pavan Bhosle – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 A modern, responsive, and interactive personal portfolio website showcasing my skills, projects, and experience in **Frontend Development, AI, and Full-Stack Engineering**.
 
-Currently, two official plugins are available:
+🔗 **Live Portfolio:**  
+👉 https://pavan-portfolio-1116.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📌 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I am **Pavan Bhosle**, a B.Tech student in **Artificial Intelligence & Data Science**, passionate about building real-world applications using modern web technologies and AI.  
+I enjoy transforming ideas into clean, user-friendly, and scalable digital products.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- ⚡ Modern & responsive UI
+- 🎨 Clean and professional design
+- 📱 Mobile-first layout
+- 🧑‍💻 Projects showcase with live/demo links
+- 🛠 Skills & tech stack section
+- 📄 Resume & contact section
+- 🚀 Fast performance & optimized build
+- 🌐 Deployed on **Vercel**
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind CSS / Custom CSS
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- Vercel (Deployment)
+
+---
+
+## 📂 Project Structure
+
+```bash
+pavan-portfolio/
+│
+├── public/            # Static assets
+├── src/
+│   ├── components/    # Reusable UI components
+│   ├── pages/         # Page sections (Home, About, Projects, Contact)
+│   ├── assets/        # Images, icons
+│   ├── styles/        # Global & component styles
+│   └── App.jsx
+│
+├── index.html
+├── package.json
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started (Local Setup)
+
+1️⃣ Clone the repository
+git clone https://github.com/pavan050505/pavan-portfolio.git
+
+2️⃣ Navigate to project folder
+cd pavan-portfolio
+
+3️⃣ Install dependencies
+npm install
+
+4️⃣ Run the development server
+npm run dev
+
+## 📬 Contact Me
+
+- 💼 Portfolio: https://pavan-portfolio.vercel.app  
+- 🐙 GitHub: https://github.com/pavan050505  
+- 📧 Email: pavanbhosle1616@gmail.com    
+
+---
+
+## ⭐ If You Like This Project
+
+If you find this portfolio helpful or inspiring, please consider giving it a ⭐ on GitHub — it really helps!
