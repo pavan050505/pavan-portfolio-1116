@@ -1,6 +1,6 @@
 import React from 'react'
 import useInView from '../hooks/useInView'
-import pbResume from '../assets/PB-Resume.pdf'
+import pbResume from '../assets/PB-Resume-2026.docx'
 
 export default function AboutExtras() {
   const [aboutExtraLeftRef, aboutExtraLeftVisible] = useInView()
