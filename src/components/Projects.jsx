@@ -4,7 +4,7 @@ import aiHelmetDetection from '../assets/AI Helmet Detection System.png'
 import roadSafety from '../assets/RoadSafety Analytics.png'
 import portfolio from '../assets/Portfolio Website.png'
 import resumeBuilder from '../assets/AI Resume and Cover Letter Builder.png'
-import nineMR from '../assets/9MR.png'
+import aileadgen from '../assets/aileadgen.png'
 import EMSimg from '../assets/EMS.png'
 
 export default function Projects() {
@@ -90,17 +90,17 @@ export default function Projects() {
 
           <article ref={proj4Ref} className={`projects-section-card project-card-left ${proj4Visible ? 'visible' : ''}`}>
             <div className="projects-section-card-image">
-              <img src={nineMR} alt="9MR" />
+              <img src={aileadgen} alt="AI Lead Generator" />
             </div>
             <div className="projects-section-card-body">
-              <div className="projects-section-card-title">9 Million Records</div>
-              <div className="projects-section-card-subtitle">javascript</div>
-              <div className="projects-section-card-desc">A professional website for a private music studio 9MR.</div>
+              <div className="projects-section-card-title">AI Lead Generator</div>
+              <div className="projects-section-card-subtitle">Full-stack AI Web App</div>
+              <div className="projects-section-card-desc">full-stack AI-powered lead generation platform</div>
               <div className="projects-section-card-icons">
-                <img src="data:image/svg+xml,%3c?xml%20version=%271.0%27%20encoding=%27utf-8%27?%3e%3c!--%20Uploaded%20to:%20SVG%20Repo,%20www.svgrepo.com,%20Generator:%20SVG%20Repo%20Mixer%20Tools%20--%3e%3csvg%20width=%27800px%27%20height=%27800px%27%20viewBox=%270%200%2032%2032%27%20xmlns=%27http://www.w3.org/2000/svg%27%3e%3ctitle%3efile_type_js%3c/title%3e%3cpath%20d=%27M18.774,19.7a3.727,3.727,0,0,0,3.376,2.078c1.418,0,2.324-.709,2.324-1.688,0-1.173-.931-1.589-2.491-2.272l-.856-.367c-2.469-1.052-4.11-2.37-4.11-5.156,0-2.567,1.956-4.52,5.012-4.52A5.058,5.058,0,0,1,26.9,10.52l-2.665,1.711a2.327,2.327,0,0,0-2.2-1.467,1.489,1.489,0,0,0-1.638,1.467c0,1.027.636,1.442,2.1,2.078l.856.366c2.908,1.247,4.549,2.518,4.549,5.376,0,3.081-2.42,4.769-5.671,4.769a6.575,6.575,0,0,1-6.236-3.5ZM6.686,20c.538.954,1.027,1.76,2.2,1.76,1.124,0,1.834-.44,1.834-2.15V7.975h3.422V19.658c0,3.543-2.078,5.156-5.11,5.156A5.312,5.312,0,0,1,3.9,21.688Z%27%20style=%27fill:%23f5de19%27/%3e%3c/svg%3e" alt="GitHub" />
-                <img src="https://portfolio-tush.vercel.app/assets/css-hOWc99lL.svg" alt="Live" />
+                <img src="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='-11.5%20-10.23174%2023%2020.46348'%3e%3ctitle%3eReact%20Logo%3c/title%3e%3ccircle%20cx='0'%20cy='0'%20r='2.05'%20fill='%2361dafb'/%3e%3cg%20stroke='%2361dafb'%20stroke-width='1'%20fill='none'%3e%3cellipse%20rx='11'%20ry='4.2'/%3e%3cellipse%20rx='11'%20ry='4.2'%20transform='rotate(60)'/%3e%3cellipse%20rx='11'%20ry='4.2'%20transform='rotate(120)'/%3e%3c/g%3e%3c/svg%3e" alt="GitHub" />
+                <img src="https://freepngimg.com/thumb/android/72537-icons-python-programming-computer-social-tutorial.png" alt="Python" />
               </div>
-              <a href="https://github.com/pavan050505/9million-records" className="projects-section-card-btn">View Project</a>
+              <a href="https://github.com/pavan050505/ai-lead-generator" className="projects-section-card-btn">View Project</a>
             </div>
           </article>
 

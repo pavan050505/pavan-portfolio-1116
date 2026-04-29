@@ -26,7 +26,7 @@ export default function About() {
             >
               <div className="about-main-title">About Me</div>
               <div className="about-main-name">I am <span className="about-main-accent">Pavan Bhosle</span></div>
-              <p className="about-main-paragraph">A passionate AI & Web Developer with a strong interest in machine learning, Frontend development, and modern AI technologies. I enjoy exploring new concepts, building real-world projects, and creating solutions that make an impact. I love working on ideas that combine creativity with technology—whether it's AI-based applications, interactive web experiences, or experimental development projects. I’m always focused on learning, improving, and building better products every day. Let’s connect and create something amazing!</p>
+              <p className="about-main-paragraph">I’m a Final Year B.Tech student in Artificial Intelligence & Data Science and a passionate Full Stack + AI Developer with a strong interest in web development, machine learning, and modern technologies. I enjoy building real-world projects, exploring new ideas, and creating impactful digital solutions. I’m constantly learning and improving my skills, and currently looking for opportunities in Full Stack and AI roles to grow, contribute, and build innovative products.</p>
             </div>
           </div>
         </div>
