@@ -30,7 +30,7 @@ export default function Hero() {
             <span className="animate-text" style={{ display: 'inline-block', opacity: 1, filter: 'blur(0px)', transform: 'none', willChange: 'transform', animationDelay: '1.28s' }}>L</span>
             <span className="animate-text" style={{ display: 'inline-block', opacity: 1, filter: 'blur(0px)', transform: 'none', willChange: 'transform', animationDelay: '1.36s' }}>E</span>
           </h1>
-          <div className="hero-subtitle">Crafting Smart Interfaces with AI and Modern Frontend</div>
+          <div className="hero-subtitle">AI Developer & Full-Stack Creator Crafting Innovative Digital Solutions</div>
           <div className="hero-actions">
             <a href="https://github.com/pavan050505" target="_blank" rel="noopener noreferrer" className="hero-btn primary">
               <span className="star-icon">⭐</span> Star Me On Github
@@ -41,7 +41,7 @@ export default function Hero() {
           </div>
           <div className="stats">
             <div className="stat">
-              <div className="stat-number"><CountUp end={40} /></div>
+              <div className="stat-number"><CountUp end={20} /></div>
               <div className="stat-label">Projects</div>
             </div>
             <div className="stat">
